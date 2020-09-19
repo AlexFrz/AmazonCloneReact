@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### THE URL OF THE HOSTED PROJECT: https://fir-64c6e.web.app/
 
 In the project directory, you can run:
 
